@@ -1,6 +1,7 @@
 body {
   background-image: url("26917.jpg");
   background-size: cover;
+  margin: 0 auto;
 }
 .container {
   background: lightgray;
@@ -8,6 +9,4 @@ body {
   height: 600px;
   margin: 0 auto;
   border-radius: 50px;
-
-  place-items: center;
 }
