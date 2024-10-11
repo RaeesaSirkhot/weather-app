@@ -3,7 +3,7 @@ body {
 }
 
 #container {
-  background: url("26917.jpg");
+  background-image: url("26917.jpg");
   background-repeat: no-repeat;
   width: 250px;
   height: 600px;
