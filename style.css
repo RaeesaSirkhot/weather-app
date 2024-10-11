@@ -21,7 +21,8 @@ body {
   font-size: 16px;
 }
 .search-form-button {
-  background: darkorange;
+  background: lightpink;
   border: none;
   padding: 15px 20px;
+  border-radius: 6px;
 }
