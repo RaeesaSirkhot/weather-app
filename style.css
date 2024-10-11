@@ -1,5 +1,7 @@
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#container {
   background-image: url("26917.jpg");
   background-repeat: no-repeat;
   height: 100vh;
