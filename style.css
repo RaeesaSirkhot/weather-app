@@ -8,4 +8,5 @@ body {
   height: 600px;
   margin: 0 auto;
   border-radius: 50px;
+  position: absolute;
 }
