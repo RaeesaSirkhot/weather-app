@@ -3,6 +3,7 @@ body {
   background-size: cover;
   margin: 0 auto;
   display: block;
+  margin-top: 50px;
 }
 .container {
   background: lightgray;
