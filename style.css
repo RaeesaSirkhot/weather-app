@@ -1,14 +1,11 @@
 body {
   background-image: url("26917.jpg");
   background-size: cover;
-  margin-left: 30%;
-
-  margin-top: 4%;
 }
 .container {
   background: lightgray;
   width: 500px;
   height: 600px;
-
+  margin: 45px auto;
   border-radius: 50px;
 }
