@@ -6,7 +6,6 @@ main {
   display: flex;
   background: url("26917.jpg");
   background-repeat: no-repeat;
-  background-size: 100px;
   width: 250px;
   height: 600px;
 }
