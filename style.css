@@ -2,3 +2,8 @@ body {
   background-image: url("26917.jpg");
   background-size: cover;
 }
+.container {
+  background: navy;
+  width: 100px;
+  height: 500px;
+}
