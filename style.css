@@ -6,9 +6,7 @@ body {
   background: lightcyan;
   width: 500px;
   height: 600px;
-  margin-left: 0 auto;
-  margin-right: 0 auto;
+  margin-left: 0;
+
   border-radius: 50px;
-  margin-top: 0 auto;
-  margin-bottom: 0 auto;
 }
