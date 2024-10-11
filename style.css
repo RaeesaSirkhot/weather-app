@@ -10,5 +10,6 @@ body {
   margin-right: auto;
   display: block;
   border-radius: 50px;
-  position: absolute;
+  margin-top: auto;
+  margin-bottom: auto;
 }
