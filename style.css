@@ -6,5 +6,5 @@ body {
   background: lightblue;
   width: 400px;
   height: 600px;
-  margin: 0 auto;
+  margin: auto 0;
 }
