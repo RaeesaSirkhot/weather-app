@@ -1,5 +1,3 @@
 body {
-  background-image: (url(26917.jpg));
-}
-.container {
+  background: url("26917.jpg");
 }
