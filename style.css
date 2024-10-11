@@ -9,3 +9,6 @@ body {
   margin: 20px auto;
   border-radius: 50px;
 }
+.search-form-input {
+  background-color: aquamarine;
+}
