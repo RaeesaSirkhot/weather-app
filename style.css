@@ -6,10 +6,10 @@ body {
   background: lightcyan;
   width: 500px;
   height: 600px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
   display: block;
   border-radius: 50px;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 0;
+  margin-bottom: 0;
 }
