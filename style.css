@@ -2,6 +2,6 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 #container {
-  width: 100px;
+  margin: auto;
   background-image: (url(26917.jpg));
 }
