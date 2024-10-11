@@ -4,4 +4,5 @@ body {
   display: flex;
   background: url("26917.jpg");
   background-repeat: none;
+  background-size: cover;
 }
