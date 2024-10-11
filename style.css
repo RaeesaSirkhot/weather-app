@@ -2,7 +2,7 @@ body {
   background-image: url("26917.jpg");
   background-size: cover;
   margin-left: 50%;
-
+  position: fixed;
   margin-top: 5%;
 }
 .container {
