@@ -11,4 +11,8 @@ body {
 }
 .search-form-input {
   background-color: lightcyan;
+  border: none;
+  border-radius: 6px;
+  width: 80%;
+  padding: 20px;
 }
