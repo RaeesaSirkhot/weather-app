@@ -3,6 +3,6 @@ body {
   margin: 0;
   display: flex;
   background: url("26917.jpg");
-  background-repeat: none;
+  background-repeat: 0;
   background-size: 100px;
 }
