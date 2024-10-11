@@ -4,8 +4,8 @@ body {
 }
 .container {
   background: lightblue;
-  width: 800px;
-  height: 600px;
+  width: 500px;
+  height: 700px;
   margin: 0 auto;
   border-radius: 50px;
 }
