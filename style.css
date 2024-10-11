@@ -3,7 +3,7 @@ body {
   background-size: cover;
 }
 .container {
-  background: lightgray;
+  background: rgba(211, 211, 211, 0.844);
   width: 700px;
   height: 600px;
   margin: 20px auto;
