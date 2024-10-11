@@ -6,7 +6,5 @@ body {
   background: lightblue;
   width: 400px;
   height: 600px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin: auto 0;
 }
