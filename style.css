@@ -1,11 +1,11 @@
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-}
-main {
   margin: 0;
   display: flex;
   background: url("26917.jpg");
   background-repeat: no-repeat;
   width: 250px;
   height: 600px;
+}
+main {
 }
