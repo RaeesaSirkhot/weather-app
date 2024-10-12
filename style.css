@@ -60,3 +60,6 @@ main {
   line-height: 20px;
   color: gray;
 }
+.weather-app-details strong {
+  color: red;
+}
