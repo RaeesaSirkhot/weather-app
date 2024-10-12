@@ -77,4 +77,6 @@ main {
 }
 
 .weather-app-unit {
+  margin-top: 16px;
+  font-size: 28px;
 }
