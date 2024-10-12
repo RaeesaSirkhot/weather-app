@@ -70,6 +70,7 @@ main {
 }
 .weather-app-temperature-container {
   display: flex;
+  margin-left: 50px;
 }
 .weather-icon {
   font-size: 44px;
