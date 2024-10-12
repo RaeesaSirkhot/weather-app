@@ -63,7 +63,7 @@ main {
 .weather-app-details strong {
   color: red;
 }
-.weather-app-temperature {
+.weather-app-temperature-value {
   margin-left: 10px;
   font-size: 88px;
   font-weight: bold;
@@ -75,5 +75,6 @@ main {
   font-size: 44px;
   margin-top: 22px;
 }
-.weather-app-temperature-value {
+
+.weather-app-unit {
 }
