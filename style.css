@@ -64,4 +64,11 @@ main {
   color: red;
 }
 .weather-app-temperature {
+  font-size: 88px;
+}
+.weather-app-temperature-container {
+  display: flex;
+}
+.weather-icon {
+  font-size: 44px;
 }
