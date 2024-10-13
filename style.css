@@ -3,6 +3,9 @@ body {
   background-size: cover;
   font-family: Arial, Helvetica, sans-serif;
 }
+p {
+  line-height: 50px;
+}
 .container {
   background: rgb(198, 198, 198);
   width: 500px;
@@ -30,6 +33,7 @@ body {
   color: white;
   margin-left: 25px;
   font-size: 16px;
+  cursor: pointer;
 }
 header {
   padding: 0 0 30px 0;
@@ -51,7 +55,7 @@ a {
 main {
   padding: 30px 0;
 }
-.weather-app-city {
+.city {
   margin-right: 40px;
   font-size: 38px;
   line-height: 48px;
@@ -69,18 +73,18 @@ main {
   color: red;
 }
 .weather-app-temperature-value {
-  margin-left: 10px;
   font-size: 88px;
   font-weight: bold;
 }
 .weather-app-temperature-container {
   display: flex;
-  margin-left: 350px;
+  margin-left: 250px;
   margin-top: -100px;
 }
 .weather-icon {
   font-size: 44px;
   margin-top: 22px;
+  margin-left: 50px;
 }
 
 .weather-app-unit {
