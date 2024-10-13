@@ -57,10 +57,11 @@ main {
 }
 .city {
   margin-right: 35px;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 48px;
   margin-top: -40px;
   margin-left: 55px;
+  font-weight: bold;
 }
 .weather-app-details {
   font-size: 16px;
@@ -82,9 +83,10 @@ main {
   margin-top: -200px;
 }
 .weather-icon {
-  font-size: 44px;
-  margin-top: 22px;
-  margin-left: 50px;
+  width: 88px;
+  height: 88px;
+  font-weight: bold;
+  line-height: 1;
 }
 
 .weather-app-unit {

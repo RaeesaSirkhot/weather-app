@@ -31,13 +31,18 @@
         <div class="weather-app-data">
           <h1 class="city" id="city"></h1>
           <p class="weather-app-details">
-            Friday, <span id="time"></span>, <span id="description"></span>
+            <span id="time"></span> <span id="description"></span>
             <br />Humidity: <strong id="humidity"></strong>, Wind:
             <strong id="wind"></strong>
           </p>
         </div>
         <div class="weather-app-temperature-container">
-          <div class="weather-icon">☁️</div>
+          <div id="icon">
+            <img
+              src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png"
+              class="weather-icon"
+            />
+          </div>
           <div class="weather-app-temperature-value" id="temperature">6</div>
           <div class="weather-app-unit">°C</div>
         </div>
